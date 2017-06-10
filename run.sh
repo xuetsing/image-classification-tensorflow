@@ -5,4 +5,4 @@ python train.py \
   --summaries_dir=logs/training_summaries/basic \
   --output_graph=logs/trained_graph.pb \
   --output_labels=logs/trained_labels.txt \
-  --image_dir=/home/acrobat/DataSets/cats_vs_dogs/dataset_split
+  --image_dir=./dataset
