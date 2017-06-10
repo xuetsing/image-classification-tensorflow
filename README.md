@@ -12,13 +12,13 @@ Make sure you have [Python](https://www.python.org/) installed, then install [Te
 ## Usage
 
 ### Prepare the image data sets
-In order to start the transfer learning process, a folder named ``training_dataset`` needs to be created in the root of the project folder. This folder will contain the image data sets for all the subjects, for whom the classification is to be performed.
+In order to start the transfer learning process, a folder named ``dataset`` needs to be created in the root of the project folder. This folder will contain the image data sets for all the subjects, for whom the classification is to be performed.
 
-Create the ``training_dataset`` folder and add the images for all the data sets in the following manner:
+Create the ``dataset`` folder and add the images for all the data sets in the following manner:
 
 ```
 |
----- /training_dataset
+---- /dataset
 |    |
 |    |
 |    ---- /A
